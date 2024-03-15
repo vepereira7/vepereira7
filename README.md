@@ -27,3 +27,4 @@ I am very proactive and versatile, skills necessary to achieve different goals i
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vepereira7&show_icons=true&locale=en" alt="vepereira7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vepereira7&" alt="vepereira7" /></p>
+m
