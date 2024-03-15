@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vepereira7&label=Profile%20views&color=0e75b6&style=flat" alt="vepereira7" /> </p>
+
 As a current Master student in Data Science and Engineering at FEUP, and with my degree in Biochemistry, my future goal is to become a Data Scientist fully prepared for future challenges.
 
 Looking ahead, I aspire to work on Data Science projects and apply all the knowledge I have gained during these stages. 
 
 I am very proactive and versatile, skills necessary to achieve different goals in the modern world.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vepereira7&label=Profile%20views&color=0e75b6&style=flat" alt="vepereira7" /> </p>
-
 
 - 🔭 I’m currently writing my master's thesis: **Automatic Signal Characterization for the Dendritic Cell Algorithm**
 
