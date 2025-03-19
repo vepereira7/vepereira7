@@ -2,13 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vepereira7&label=Profile%20views&color=0e75b6&style=flat" alt="vepereira7" /> </p>
 
-As a current Master student in Data Science and Engineering at FEUP, and with my degree in Biochemistry, my future goal is to become a Data Scientist fully prepared for future challenges.
+I have a Master's in Data Science and Engineering from FEUP and a bachelor's in Biochemistry. I am a Junior Data Engineer at Finantech, applying my analytical and technical skills to create data-driven solutions and enhance complex workflows using state-of-the-art technologies.
 
-Looking ahead, I aspire to work on Data Science projects and apply all the knowledge I have gained during these stages. 
+Driven by a deep curiosity, I am dedicated to elevating my expertise in machine learning, artificial intelligence, and advanced analytics. I aspire to advance in this field continually and contribute to impactful projects at the intersection of AI and data engineering.
 
-I am very proactive and versatile, skills necessary to achieve different goals in the modern world.
-
-- 🔭 I’m currently writing my master's thesis: **Automatic Signal Characterization for the Dendritic Cell Algorithm**
+With a strong adaptability, I thrive in fast-paced environments that demand critical thinking and problem-solving. I am always enthusiastic about learning, collaborating with others, and leveraging my skills to create data-driven solutions.
 
 - 🌱 I’m currently learning **Swift**
 
